@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Hoa Đỗ Quyên",
+        "description": "Hoa đỗ quyên nở rực rỡ với những chùm hoa dày và nổi bật. Trong phong thủy, đỗ quyên tượng trưng cho sự sum vầy, hạnh phúc và sự ấm áp của gia đình. Loài hoa này còn được tin rằng giúp xua đuổi tà khí, mang lại may mắn và vượng khí cho gia chủ.",
+        "image": "doquyen.jpg"
+    },
+    {
+        "name": "Hoa Hải Đường",
+        "description": "Hoa hải đường thanh nhã, thường có màu trắng, hồng hoặc kem. Đây là loài hoa biểu tượng cho sự giàu sang, phú quý và nét đẹp quý phái. Hải đường hay được trồng vào dịp xuân để mang đến sự thịnh vượng và may mắn.",
+        "image": "haiduong.jpg"
+    },
+    {
+        "name": "Hoa Mai",
+        "description": "Hoa mai vàng là biểu tượng đặc trưng của mùa xuân phương Nam. Mỗi bông mai nở mang ý nghĩa về sự may mắn, tài lộc, thịnh vượng và niềm vui mới. Cây mai nở đúng Tết được xem là dấu hiệu của một năm hanh thông.",
+        "image": "mai.jpg"
+    },
+    {
+        "name": "Hoa Tường Vy",
+        "description": "Hoa tường vy có cánh nhỏ, mọc thành chùm xinh xắn và hương thơm dịu. Đây là loài hoa tượng trưng cho sự dịu dàng, tinh khôi và một tình yêu trong sáng. Tường vy thường được chọn làm hoa trang trí hoặc cắm bình để mang lại vẻ mềm mại cho không gian.",
+        "image": "tuongvy.jpg"
+    }
+]
