@@ -1,0 +1,21 @@
+# Bật Rewrite Engine
+RewriteEngine On
+
+# Nếu file hoặc thư mục tồn tại, cho phép truy cập trực tiếp
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Chuyển tất cả request đến index.php
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# Bảo vệ file config
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Ngăn truy cập các file nhạy cảm
+<FilesMatch "\.(sql|md)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
